@@ -12,8 +12,8 @@
         <track>
             <artist>Masih ft. Arash Ap</artist>
             <title>Bia Ba Man</title>
-            <url>./audio/music1.mp3</url>
-            <artwork>./audio/music1.jpg</artwork>
+            <url>/audio/music1.mp3</url>
+            <artwork>/audio/music1.jpg</artwork>
             <apple>www.apple.com</apple>
             <amazon>www.amazon.com</amazon>
             <download>true</download>
@@ -21,8 +21,8 @@
         <track>
             <artist>Alex Pound</artist>
             <title>Ringers</title>
-            <url>./audio/music2.mp3</url>
-            <artwork>./audio/music2.jpg</artwork>
+            <url>/audio/music2.mp3</url>
+            <artwork>/audio/music2.jpg</artwork>
             <apple>www.apple.com</apple>
             <amazon>www.amazon.com</amazon>
             <download>true</download>
@@ -30,8 +30,8 @@
         <track>
             <artist>D.S</artist>
             <title>StarWars</title>
-            <url>./audio/music3.mp3</url>
-            <artwork>./audio/music3.png</artwork>
+            <url>/audio/music3.mp3</url>
+            <artwork>/audio/music3.png</artwork>
             <apple>www.apple.com</apple>
             <amazon>www.amazon.com</amazon>
             <download>true</download>
